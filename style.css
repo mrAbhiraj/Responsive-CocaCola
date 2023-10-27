@@ -257,9 +257,16 @@ html, body {
         width: 30px;
     }
 
+    #ncenter #logo{
+        transform: translate(-50% , 50%);
+        position: absolute;
+        top: 50%;
+       
+    }
     #ncenter #logo img {
         width: 100px;
         margin: 0 10px;
+     
     }
 
     #hero {
